@@ -1,7 +1,7 @@
 name: Feature Request
 description: Suggest a new feature for a coatless-wasm project
 title: "[FEATURE] "
-labels: [enhancement, needs-discussion]
+labels: ["t: feature-request"]
 type: Feature
 body:
   - type: markdown
